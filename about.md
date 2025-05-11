@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-I'm a reverse engineerer who are make make my self be better in cyber security.
+I'm a reverse engineer who is making myself better in cybersecurity.
 
 ### Contact me
-[github](https://github.com/minhprovjp)
-[minhanhnd624@gmail.com](mailto:minhanhnd624@gmail.com)
+[Github](https://github.com/minhprovjp)
+[Email](mailto:minhanhnd624@gmail.com)
