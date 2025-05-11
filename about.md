@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a reverse engineerer who are make make my self be better in cyber security.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[github](https://github.com/minhprovjp)
+[minhanhnd624@gmail.com](mailto:minhanhnd624@gmail.com)
